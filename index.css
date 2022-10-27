@@ -1,0 +1,56 @@
+tr td{
+    border: 3px solid black;
+    padding: 10px;
+    background-color: purple;
+    color: aquamarine;
+    border-radius: 5px;
+   
+}
+#st{
+   text-align: center;
+}
+#stt{
+   text-align: center;
+}
+#sttt{
+    text-align: center;
+}
+table{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    box-shadow: 3px 3px 3px;
+    background-image: url(./fontawesome-free-6.2.0-web/6.jpg);
+    height: 100vh;
+    padding-top: 200px;
+
+
+}
+td:hover{
+     transform: scale(1.2);
+    background-color: transparent;
+    font-weight: 900;
+    background-color: cornflowerblue;
+    
+}
+h1{
+    text-align: center;
+   
+        -webkit-background-clip: text;
+         -webkit-text-fill-color: transparent;
+         background-image: linear-gradient(
+             45deg,
+             #FF0000 33%,
+             #FF4500 33%,
+             #FF4500 40%,
+             #FFFF00 40%,
+             #FFFF00 47%,
+             #008000 47%,
+             #008000 54%,
+             #00BFFF 54%,
+             #00BFFF 61%,
+             #0000FF 61%,
+             #0000FF 68%,
+             #800080 68%);
+}
